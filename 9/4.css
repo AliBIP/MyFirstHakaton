@@ -1,0 +1,140 @@
+@font-face {
+    font-family:Oswald;
+    src: url(../fonts/Oswald/static/Oswald-Regular.ttf);
+}
+* {
+    font-family:'Oswald"';
+    margin: 0;
+    padding: 0;
+}
+
+header {
+background-color: rgba(160, 28, 37, 1);
+;
+width: 100%;
+height:100% ;
+margin-bottom: 1% ;
+
+}
+.logo {
+    font-family: Oswald;
+font-size: 60px;
+font-weight: 400PX;
+line-height: 89PX;
+letter-spacing: 0em;
+text-align: center;
+width: 303px;
+height: 110px;
+display: inline-block;
+color: rgba(32, 35, 42, 1);
+
+}
+
+.forum {
+font-family: Oswald;
+font-size: 40px;
+display: inline-block;
+color: rgba(243, 244, 239, 1);
+
+}
+
+
+
+
+a {
+    text-decoration: none;
+    font-family: Oswald;
+font-size: 40px;
+text-align: center;
+width: 195px;
+/* height: 110px; */
+/* left: 323px; */
+display: inline-block;
+color: rgba(243, 244, 239, 1);
+}
+
+.laws{
+    font-family: Oswald;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 59px;
+    letter-spacing: 0em;
+    text-align: center;
+    display: inline-block;
+    
+}
+
+.container {
+    position: absolute;
+    width: 170px;
+    height: 69px;
+    top: 20px;
+    right: 20px; 
+    border-radius: 15px;
+    background: rgba(32, 35, 42, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.inter_main{
+    width: 100%;
+height: 943px;
+top: 137px;
+background: #20232A;
+
+}
+.inter_main2{
+    width: 90%;
+height: 681px;
+top: 158px;
+left: 108px;
+border-radius: 15px;
+background: #F3F4EF;
+position: absolute;
+}
+.inter_main2_inter{
+    width: 100%;
+height: 58px;
+top: 158px;
+left: 108px;
+border-radius: 15px;
+background: #ACBEBE;
+
+}
+.inter_main2_text{
+    width: 617px;
+height: 58px;
+top: 158px;
+left: 152px;
+font-family: Oswald;
+font-size: 40px;
+font-weight: 400;
+line-height: 59px;
+letter-spacing: 0em;
+text-align: left;
+color: #20232A;
+}
+.social_media{
+    width: 110px;
+height: 80px;
+top: 986px;
+left: 90%;
+border-radius: 15px;
+background: #f1f3f7;
+position: absolute;
+}
+.text_social{
+    width: 108px;
+height: 108px;
+top: 958px;
+left: 1812px;
+font-family: Oswald;
+font-size: 40px;
+font-weight: 400;
+line-height: 59px;
+letter-spacing: 0em;
+text-align: center;
+color: #0c0c0a;
+}
+
+
